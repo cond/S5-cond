@@ -16,4 +16,4 @@ Changes from the original version
 ---------------------------------
 
 * Remove the image of shell placed at the upper left corner.
-* <pre> texts are surrounded by a dashed box.
+* &lt;pre&gt; texts are surrounded by a dashed box.
